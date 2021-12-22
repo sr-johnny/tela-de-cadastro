@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="/assets/brandname.jpg" width="250" height="120"/><br />
+<img src="/assets/icon.png" width="150"/><br /><br />
 Tela de Cadastro
 </h1>
 
@@ -24,3 +24,5 @@ usando **yarn**
 ```bash
 $ yarn start
 ```
+
+<p align="center"><img src="/assets/favicon.png" width="50"/></p>
